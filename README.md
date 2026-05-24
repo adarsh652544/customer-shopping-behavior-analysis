@@ -1,5 +1,3 @@
-# customer-shopping-behavior-analysis
-
 # Customer Shopping Behavior Analysis
 
 ## Tools Used
@@ -9,16 +7,17 @@
 - Power BI
 
 ## Project Overview
-This project analyzes customer shopping behavior and purchasing trends using SQL and Power BI.
+Analyzed customer shopping behavior and purchasing trends using SQL, Python, and Power BI dashboards.
 
 ## Key Insights
-- Revenue analysis by gender
-- Discount impact on purchases
+- Revenue analysis by customer segments
+- Discount impact on spending
 - Top-rated products
 - Customer purchase patterns
 
 ## Skills Demonstrated
 - Data Cleaning
-- SQL Analysis
+- SQL Queries
+- Exploratory Data Analysis
 - Dashboard Development
 - Business Insights
